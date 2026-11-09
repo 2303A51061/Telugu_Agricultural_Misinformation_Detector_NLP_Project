@@ -1,0 +1,366 @@
+{
+  "totalRecords": 3200,
+  "labelCounts": {
+    "INFORMATION": 1600,
+    "MISINFORMATION": 1600
+  },
+  "topicCounts": {
+    "Seeds": 229,
+    "Fertilizers": 229,
+    "Pesticides": 229,
+    "Crop Diseases": 229,
+    "Irrigation": 229,
+    "Soil": 229,
+    "Weather": 229,
+    "Crop Yield": 229,
+    "Organic Farming": 228,
+    "Government Schemes": 228,
+    "Market Prices": 228,
+    "Farming Techniques": 228,
+    "Pest Control": 228,
+    "Agricultural Machinery": 228
+  },
+  "samples": {
+    "INFORMATION": [
+      {
+        "id": "TAM0001",
+        "text": "విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి.",
+        "topic": "Seeds",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0003",
+        "text": "రైతులకు సమాచారం: పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Pesticides",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0005",
+        "text": "పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి.",
+        "topic": "Irrigation",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0007",
+        "text": "వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Weather",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0009",
+        "text": "వ్యవసాయ సమాచారం: సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి.",
+        "topic": "Organic Farming",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0011",
+        "text": "రైతులకు సమాచారం: పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది.",
+        "topic": "Market Prices",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0013",
+        "text": "పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం. అని ఒక పోస్టులో పేర్కొన్నారు.",
+        "topic": "Pest Control",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0015",
+        "text": "గమనిక: విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Seeds",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0017",
+        "text": "వ్యవసాయ సమాచారం: పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Pesticides",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0019",
+        "text": "పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది.",
+        "topic": "Irrigation",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0021",
+        "text": "రైతులకు సమాచారం: వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు.",
+        "topic": "Weather",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0023",
+        "text": "వ్యవసాయ సమాచారం: సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి.",
+        "topic": "Organic Farming",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0025",
+        "text": "వ్యవసాయ సమాచారం: ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Market Prices",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0027",
+        "text": "రైతులకు సమాచారం: పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Pest Control",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      },
+      {
+        "id": "TAM0029",
+        "text": "గమనిక: పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి. అని ఒక పోస్టులో పేర్కొన్నారు.",
+        "topic": "Seeds",
+        "label": "INFORMATION",
+        "reason": "General agricultural guidance"
+      }
+    ],
+    "MISINFORMATION": [
+      {
+        "id": "TAM0002",
+        "text": "వ్యవసాయ సమాచారం: ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది.",
+        "topic": "Fertilizers",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0004",
+        "text": "ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Crop Diseases",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0006",
+        "text": "రైతులకు సమాచారం: ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు.",
+        "topic": "Soil",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0008",
+        "text": "గమనిక: ఈ టెక్నిక్‌తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది.",
+        "topic": "Crop Yield",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0010",
+        "text": "గమనిక: ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది. అని ఒక పోస్టులో పేర్కొన్నారు.",
+        "topic": "Government Schemes",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0012",
+        "text": "ఈ టెక్నిక్‌తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు.",
+        "topic": "Farming Techniques",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0014",
+        "text": "వ్యవసాయ సమాచారం: ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది.",
+        "topic": "Agricultural Machinery",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0016",
+        "text": "గమనిక: ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది.",
+        "topic": "Fertilizers",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0018",
+        "text": "వ్యవసాయ సమాచారం: ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Crop Diseases",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0020",
+        "text": "రైతులకు సమాచారం: నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది. అని ఒక పోస్టులో పేర్కొన్నారు.",
+        "topic": "Soil",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0022",
+        "text": "వ్యవసాయ సమాచారం: ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది. అని ఒక పోస్టులో పేర్కొన్నారు.",
+        "topic": "Crop Yield",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0024",
+        "text": "వ్యవసాయ సమాచారం: ఈ మెసేజ్‌ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది.",
+        "topic": "Government Schemes",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0026",
+        "text": "ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Farming Techniques",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0028",
+        "text": "రైతులకు సమాచారం: ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది.",
+        "topic": "Agricultural Machinery",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      },
+      {
+        "id": "TAM0030",
+        "text": "రైతులకు సమాచారం: ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది. అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు.",
+        "topic": "Fertilizers",
+        "label": "MISINFORMATION",
+        "reason": "Unverified, exaggerated or absolute claim"
+      }
+    ]
+  },
+  "textLengthStats": {
+    "min": 45,
+    "max": 132,
+    "avg": 91
+  },
+  "topWords": [
+    {
+      "word": "అని",
+      "count": 12774
+    },
+    {
+      "word": "సమాచారం",
+      "count": 9978
+    },
+    {
+      "word": "ఒక",
+      "count": 8516
+    },
+    {
+      "word": "పోస్టులో",
+      "count": 6534
+    },
+    {
+      "word": "పేర్కొన్నారు",
+      "count": 6534
+    },
+    {
+      "word": "సందేశంలో",
+      "count": 6240
+    },
+    {
+      "word": "ప్రచారం",
+      "count": 6240
+    },
+    {
+      "word": "చేస్తున్నారు",
+      "count": 6240
+    },
+    {
+      "word": "వ్యవసాయ",
+      "count": 6234
+    },
+    {
+      "word": "గమనిక",
+      "count": 4890
+    },
+    {
+      "word": "రైతులకు",
+      "count": 4662
+    },
+    {
+      "word": "అన్ని",
+      "count": 3792
+    },
+    {
+      "word": "పంట",
+      "count": 3702
+    },
+    {
+      "word": "నేల",
+      "count": 3324
+    },
+    {
+      "word": "ఒక్క",
+      "count": 2670
+    },
+    {
+      "word": "ఎరువు",
+      "count": 2442
+    },
+    {
+      "word": "దిగుబడి",
+      "count": 2226
+    },
+    {
+      "word": "మరియు",
+      "count": 2068
+    },
+    {
+      "word": "అవసరం",
+      "count": 1968
+    },
+    {
+      "word": "వస్తుంది",
+      "count": 1878
+    },
+    {
+      "word": "వాడితే",
+      "count": 1740
+    },
+    {
+      "word": "ప్రతి",
+      "count": 1608
+    },
+    {
+      "word": "ఒకే",
+      "count": 1488
+    },
+    {
+      "word": "నిర్వహణ",
+      "count": 1470
+    },
+    {
+      "word": "తగిన",
+      "count": 1470
+    },
+    {
+      "word": "ఎంచుకోవాలి",
+      "count": 1452
+    },
+    {
+      "word": "పద్ధతులను",
+      "count": 1404
+    },
+    {
+      "word": "విత్తనాలను",
+      "count": 1374
+    },
+    {
+      "word": "నీటి",
+      "count": 1374
+    },
+    {
+      "word": "పురుగు",
+      "count": 1374
+    }
+  ]
+}

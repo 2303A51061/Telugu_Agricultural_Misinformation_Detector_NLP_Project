@@ -1,0 +1,2 @@
+Model,Accuracy,Precision_Misinformation,Recall_Misinformation,F1_Misinformation
+MuRIL,1.0,1.0,1.0,1.0

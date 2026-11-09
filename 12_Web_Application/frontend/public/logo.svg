@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="aiPulseGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#022C22" stop-opacity="0.95" />
+    </linearGradient>
+    <linearGradient id="goldWheat" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCD34D" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Shield Badge -->
+  <path d="M 256 32 C 340 52 432 44 432 44 C 432 232 376 392 256 468 C 136 392 80 232 80 44 C 80 44 172 52 256 32 Z" 
+        fill="url(#shieldGrad)" stroke="#10B981" stroke-width="6" stroke-linejoin="round" />
+  
+  <!-- Subtle Internal Circuit Lattice -->
+  <path d="M 160 180 L 220 220 L 220 280 L 160 320 M 352 180 L 292 220 L 292 280 L 352 320 M 256 120 L 256 200" 
+        stroke="#10B981" stroke-width="2.5" stroke-opacity="0.4" stroke-dasharray="4 4" fill="none" />
+
+  <!-- Agricultural Crop Leaf Left (Organic Curvature) -->
+  <path d="M 256 340 C 200 320 140 240 160 150 C 210 160 250 220 256 340 Z" 
+        fill="url(#leafGrad)" filter="url(#glow)" />
+
+  <!-- Agricultural Crop Leaf Right (Organic Curvature) -->
+  <path d="M 256 340 C 312 320 372 240 352 150 C 302 160 262 220 256 340 Z" 
+        fill="url(#leafGrad)" />
+
+  <!-- Central Sprout Vein / AI Pathway -->
+  <path d="M 256 380 L 256 140" stroke="#ECFDF5" stroke-width="5" stroke-linecap="round" />
+
+  <!-- Wheat Grain Accents -->
+  <ellipse cx="256" cy="120" rx="9" ry="16" fill="url(#goldWheat)" />
+  <ellipse cx="236" cy="144" rx="8" ry="14" transform="rotate(-30 236 144)" fill="url(#goldWheat)" />
+  <ellipse cx="276" cy="144" rx="8" ry="14" transform="rotate(30 276 144)" fill="url(#goldWheat)" />
+  <ellipse cx="228" cy="180" rx="8" ry="14" transform="rotate(-40 228 180)" fill="url(#goldWheat)" />
+  <ellipse cx="284" cy="180" rx="8" ry="14" transform="rotate(40 284 180)" fill="url(#goldWheat)" />
+
+  <!-- Neural Network Nodes & AI Interconnects -->
+  <!-- Left Wing Nodes -->
+  <circle cx="160" cy="180" r="8" fill="#34D399" stroke="#ECFDF5" stroke-width="2.5" />
+  <circle cx="220" cy="220" r="7" fill="#06B6D4" stroke="#ECFDF5" stroke-width="2" />
+  <circle cx="220" cy="280" r="7" fill="#06B6D4" stroke="#ECFDF5" stroke-width="2" />
+  <circle cx="160" cy="320" r="8" fill="#10B981" stroke="#ECFDF5" stroke-width="2.5" />
+
+  <!-- Right Wing Nodes -->
+  <circle cx="352" cy="180" r="8" fill="#34D399" stroke="#ECFDF5" stroke-width="2.5" />
+  <circle cx="292" cy="220" r="7" fill="#06B6D4" stroke="#ECFDF5" stroke-width="2" />
+  <circle cx="292" cy="280" r="7" fill="#06B6D4" stroke="#ECFDF5" stroke-width="2" />
+  <circle cx="352" cy="320" r="8" fill="#10B981" stroke="#ECFDF5" stroke-width="2.5" />
+
+  <!-- Central Core AI Node (Truth / Verification Sensor) -->
+  <circle cx="256" cy="250" r="14" fill="#10B981" stroke="#FFFFFF" stroke-width="4" filter="url(#glow)" />
+  <circle cx="256" cy="250" r="6" fill="#FFFFFF" />
+
+  <!-- Verification Check Arc at Bottom -->
+  <path d="M 216 385 Q 256 425 296 385" stroke="#34D399" stroke-width="4" stroke-linecap="round" fill="none" />
+  <circle cx="256" cy="405" r="5" fill="#34D399" />
+</svg>

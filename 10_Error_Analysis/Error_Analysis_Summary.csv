@@ -1,0 +1,7 @@
+Metric,Value
+Total Test Samples,640.0
+Correct Predictions,640.0
+Incorrect Predictions,0.0
+False Positives,0.0
+False Negatives,0.0
+Accuracy,1.0

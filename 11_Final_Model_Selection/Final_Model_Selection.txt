@@ -1,0 +1,11 @@
+# Step 11: Final Model Selection
+
+Four classification models were considered for Telugu agricultural misinformation detection: Logistic Regression, Naive Bayes, Linear Support Vector Machine, and MuRIL Transformer.
+
+The models were compared using accuracy, precision, recall, and F1-score. Special attention was given to misinformation recall and F1-score because incorrectly identifying misinformation as genuine information can be a significant concern.
+
+The model with the highest misinformation F1-score was selected as the final model, considering the evaluation results and dataset limitations.
+
+The selected model will be integrated into the prediction system and web application in the subsequent stages.
+
+The final model selection is based on experimental performance on the available dataset and does not establish the model's ability to independently verify real-world agricultural claims.

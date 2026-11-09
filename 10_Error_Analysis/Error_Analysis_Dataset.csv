@@ -1,0 +1,641 @@
+Text,Actual_Label,Predicted_Label,Correct_Prediction,Error_Type
+గమనిక పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు,INFORMATION,INFORMATION,True,Correct
+గమనిక ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి,INFORMATION,INFORMATION,True,Correct
+వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది,INFORMATION,INFORMATION,True,Correct
+ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు,INFORMATION,INFORMATION,True,Correct
+గమనిక వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు,INFORMATION,INFORMATION,True,Correct
+పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు,INFORMATION,INFORMATION,True,Correct
+నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు,INFORMATION,INFORMATION,True,Correct
+ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది,INFORMATION,INFORMATION,True,Correct
+వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక సేంద్రీయ పదార్థాలను ఉపయోగించేటప్పుడు నేల పరిస్థితులను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంటను విక్రయించే ముందు మార్కెట్ ధరలను పరిశీలించడం మంచిది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను నాటే ముందు వాటి నాణ్యతను పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మెసేజ్ ను పది మందికి పంపితే సబ్సిడీ ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం,INFORMATION,INFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ప్రణాళికలో స్థానిక వాతావరణ సమాచారం ఉపయోగపడుతుంది,INFORMATION,INFORMATION,True,Correct
+గమనిక విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+నీటి వినియోగాన్ని తగ్గించడానికి తగిన నిర్వహణ పద్ధతులను ఉపయోగించవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రానికి ఎలాంటి నిర్వహణ అవసరం లేదు మరియు జీవితాంతం పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించిన తర్వాత తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+విత్తనాలను సరైన తేమ ఉన్న ప్రదేశంలో నిల్వ చేయాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఏ నేలలో అయినా ఒకే పంటను సాగు చేస్తే నేల ఎప్పటికీ మారదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వర్షపాతం మరియు ఉష్ణోగ్రత పంట ఎదుగుదలపై ప్రభావం చూపవచ్చు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంటకు అనుకూలమైన ధృవీకరించిన విత్తనాలను ఎంచుకోవాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ఈ మందు అన్ని పంట వ్యాధులను ఒక్క రోజులో నయం చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగు ఉధృతి పెరిగినప్పుడు నిపుణుల వ్యవసాయ సలహా తీసుకోవడం ఉపయోగకరం,INFORMATION,INFORMATION,True,Correct
+ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ మందు వాడితే ఏ పంటకైనా దిగుబడి ఐదు రెట్లు పెరుగుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ ఒక్క పద్ధతి అన్ని ప్రాంతాల్లో అన్ని పంటలకు ఖచ్చితంగా పనిచేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం వ్యవసాయ ఉత్పత్తి ధరలు మార్కెట్ మరియు సమయాన్ని బట్టి మారవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం ధరల సమాచారాన్ని విశ్వసనీయ మార్కెట్ వనరుల ద్వారా నిర్ధారించాలి,INFORMATION,INFORMATION,True,Correct
+గమనిక పంట నీటి అవసరం పంట రకం మరియు నేల పరిస్థితులపై ఆధారపడి ఉంటుంది,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక వాతావరణం ఎలా ఉన్నా ఈ పద్ధతితో దిగుబడి తగ్గదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ టెక్నిక్ తో ప్రతి ఎకరానికి 100 బస్తాల దిగుబడి ఖచ్చితంగా వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం సేంద్రీయ సాగు పద్ధతులను స్థానిక పరిస్థితులకు అనుగుణంగా ప్రణాళిక చేయాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క ఇంటి చిట్కా అన్ని పంట వ్యాధులకు శాశ్వత పరిష్కారం అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పిచికారీ సమయంలో భద్రతా పరికరాలను ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ పొడిని వేస్తే ఏ నేల అయినా ఒక్క రోజులో సారవంతమవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక ఈ ఒక్క యంత్రం అన్ని వ్యవసాయ పనులను స్వయంగా చేస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పంట ఎదుగుదల దశను బట్టి నీటి అవసరాన్ని పరిశీలించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఈ పద్ధతిలో సాగు చేస్తే ఎరువు అవసరం పూర్తిగా ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ లింక్ పై క్లిక్ చేస్తే పథకం డబ్బు వెంటనే వస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక నేల పరీక్ష లేకుండా అన్ని పొలాలకు ఒకే ఎరువు మోతాదు సరిపోతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+పంటకు ఏ వ్యాధి వచ్చినా ఒకే మందు వాడితే శాశ్వతంగా పోతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం వాతావరణ పరిస్థితులను బట్టి పంట నిర్వహణ నిర్ణయాలను మార్చుకోవచ్చు అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ ఎరువు వాడితే ప్రతి పంటలో దిగుబడి రెట్టింపు అవుతుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+రైతులకు సమాచారం సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి అని ఒక పోస్టులో పేర్కొన్నారు,INFORMATION,INFORMATION,True,Correct
+రైతులకు సమాచారం ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగుల నియంత్రణలో సురక్షితమైన పద్ధతులను పాటించాలి,INFORMATION,INFORMATION,True,Correct
+వ్యవసాయ సమాచారం ఈ టెక్నిక్ తో ఏ పంటకైనా నీరు మరియు ఎరువు అవసరం ఉండదు,MISINFORMATION,MISINFORMATION,True,Correct
+వ్యవసాయ సమాచారం పురుగుమందును లేబుల్ సూచనల ప్రకారం ఉపయోగించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+గమనిక ఎరువును ఎంత ఎక్కువగా వేస్తే అంత ఎక్కువ దిగుబడి వస్తుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+ఈ యంత్రాన్ని వాడితే అన్ని పొలాల్లో పని సగం సమయంలో పూర్తవుతుంది అని ఒక పోస్టులో పేర్కొన్నారు,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక పురుగు సమస్యను గుర్తించి తగిన నియంత్రణ పద్ధతిని ఎంచుకోవాలి,INFORMATION,INFORMATION,True,Correct
+ప్రతి రైతుకు దరఖాస్తు లేకుండా ప్రభుత్వం ప్రతి ఎకరానికి లక్ష రూపాయలు ఇస్తుంది,MISINFORMATION,MISINFORMATION,True,Correct
+గమనిక సేంద్రీయ సాగులో నేల ఆరోగ్యం మరియు జీవ వైవిధ్యాన్ని పరిగణించాలి అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,INFORMATION,INFORMATION,True,Correct
+ఈ ఎరువు అన్ని నేల సమస్యలను ఒక్క రోజులో పరిష్కరిస్తుంది అని ఒక సందేశంలో ప్రచారం చేస్తున్నారు,MISINFORMATION,MISINFORMATION,True,Correct

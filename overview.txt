@@ -1,0 +1,14 @@
+✅ Step 1 — Project Definition
+✅ Step 2 — Dataset Creation
+✅ Step 3 — Data Cleaning & Validation
+✅ Step 4 — Exploratory Data Analysis (EDA)
+🔵 Step 5 — Telugu NLP Preprocessing  ← NEXT
+⬜ Step 6 — Feature Extraction
+⬜ Step 7 — Machine Learning Models
+⬜ Step 8 — Model Evaluation
+⬜ Step 9 — Transformer Model
+⬜ Step 10 — Error Analysis
+⬜ Step 11 — Final Model
+⬜ Step 12 — Web Application
+⬜ Step 13 — Testing
+⬜ Step 14–18 — Research Paper, Report, PPT, Viva & Submission

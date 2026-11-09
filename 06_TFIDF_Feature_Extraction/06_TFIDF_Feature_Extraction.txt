@@ -1,0 +1,9 @@
+06_TFIDF_Feature_Extraction/
+│
+├── 06_TFIDF_Feature_Extraction.ipynb
+├── TFIDF_Vectorizer.pkl
+├── X_train_tfidf.npz
+├── X_test_tfidf.npz
+├── y_train.csv
+├── y_test.csv
+└── TFIDF_Vocabulary.csv

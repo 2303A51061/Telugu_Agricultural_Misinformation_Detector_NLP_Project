@@ -1,0 +1,9 @@
+04_EDA/
+│
+├── EDA_Analysis.ipynb
+├── 01_Class_Distribution.png
+├── 02_Topic_Distribution.png
+├── 03_Text_Length_Distribution.png
+├── 04_Class_Text_Length.png
+├── 05_Word_Frequency.png
+└── EDA_Report.docx

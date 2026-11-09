@@ -1,0 +1,4 @@
+News_Text,Actual_Label,Predicted_Label,Confidence_Percentage,Correct_Prediction
+రైతులకు ప్రభుత్వం కొత్త పథకాన్ని ప్రకటించింది,INFORMATION,MISINFORMATION,74.82180847158335,False
+ఈ ఎరువును వాడితే ఒక్క రోజులో పంట దిగుబడి రెట్టింపు అవుతుంది,MISINFORMATION,MISINFORMATION,97.22057371379445,True
+వ్యవసాయ శాఖ రైతులకు శిక్షణ కార్యక్రమం నిర్వహించింది,INFORMATION,MISINFORMATION,54.78942433134314,False
